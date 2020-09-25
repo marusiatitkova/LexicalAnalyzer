@@ -1,0 +1,34 @@
+#include <iostream>
+1)
+7]
+8}
+
+'ghj'
+1#trgft
+
+using namespace std;
+String s = "chjkl"; // "comment"
+
+int main()
+{
+     int x;
+     unsigned p;
+     int power(int x,unsigned p);
+     cingjgh>>x>>p;
+     cout<< power(x,p);
+
+    return 0;
+}
+// возведение в степень
+// nbdddcff
+/* gwhjghe */
+int power(int x, unsigned p)
+{
+     int answer = 1;
+     if (p == 0) answer = 1;
+     else for (int i = 0; i < p; i ++)
+     {
+          answer *= x;
+     }
+     return answer;
+}
